@@ -1,0 +1,66 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="87" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../models/simple_on_off/include/simple_on_off_client.h" useHWbreakpoint="false"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha"/>
+  <ProjectSessionItem path="light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha;light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha"/>
+  <ProjectSessionItem path="light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha;light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha;Access"/>
+  <ProjectSessionItem path="light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha;light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha;Application"/>
+  <ProjectSessionItem path="light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha;light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha;Configuration Model"/>
+  <ProjectSessionItem path="light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha;light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha;SEGGER RTT"/>
+  <ProjectSessionItem path="light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha;light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha;Toolchain"/>
+  <ProjectSessionItem path="light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha;light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha;uECC"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="446" useTextEdit="1" useBinaryEdit="0" left="0" path="src/main.c" debugPath="src/main.c" selected="1" top="435" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="49" useTextEdit="1" useBinaryEdit="0" left="0" path="../include/light_switch_example_common.h" debugPath="../include/light_switch_example_common.h" selected="0" top="34" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="189" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/simple_on_off/src/simple_on_off_client.c" debugPath="../../../models/simple_on_off/src/simple_on_off_client.c" selected="0" top="168" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="154" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/simple_on_off/include/simple_on_off_client.h" debugPath="../../../models/simple_on_off/include/simple_on_off_client.h" selected="0" top="138" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="56" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/simple_on_off/include/simple_on_off_common.h" debugPath="../../../models/simple_on_off/include/simple_on_off_common.h" selected="0" top="48" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="190" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/access/api/access.h" debugPath="../../../mesh/access/api/access.h" selected="0" top="162" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="41" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/access/src/access.c" debugPath="../../../mesh/access/src/access.c" selected="0" top="21" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="119" useTextEdit="1" useBinaryEdit="0" left="0" path="include/main_functions.c" debugPath="include/main_functions.c" selected="0" top="98" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="10" useTextEdit="1" useBinaryEdit="0" left="0" path="include/main_functions.h" debugPath="include/main_functions.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="7" useTextEdit="1" useBinaryEdit="0" left="0" path="../include/main_structures.h" debugPath="../include/main_structures.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="312" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/src/nrf_mesh.c" debugPath="../../../mesh/core/src/nrf_mesh.c" selected="0" top="285" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="182" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nrf_mesh_sdk.c" debugPath="../../nrf_mesh_sdk.c" selected="0" top="174" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="75" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../external/softdevice/s140_5.0.0-3.alpha/s140_nrf52840_5.0.0-3.alpha_API/include/nrf_soc.h" debugPath="../../../external/softdevice/s140_5.0.0-3.alpha/s140_nrf52840_5.0.0-3.alpha_API/include/nrf_soc.h" selected="0" top="39" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="482" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/api/nrf_mesh.h" debugPath="../../../mesh/core/api/nrf_mesh.h" selected="0" top="461" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="99" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/src/hal.c" debugPath="../../../mesh/core/src/hal.c" selected="0" top="57" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="13" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../external/softdevice/s140_5.0.0-3.alpha/s140_nrf52840_5.0.0-3.alpha_API/include/nrf_sdm.h" debugPath="../../../external/softdevice/s140_5.0.0-3.alpha/s140_nrf52840_5.0.0-3.alpha_API/include/nrf_sdm.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="37" useTextEdit="1" useBinaryEdit="0" left="0" path="src/provisioner.c" debugPath="src/provisioner.c" selected="0" top="18" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="17" useTextEdit="1" useBinaryEdit="0" left="0" path="include/provisioner.h" debugPath="include/provisioner.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="65" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../external/nRF5_SDK_14.0.0_3bcc1f7/components/boards/pca10056.h" debugPath="../../../external/nRF5_SDK_14.0.0_3bcc1f7/components/boards/pca10056.h" selected="0" top="52" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="light_switch_client_nrf52840_xxAA_s140_5.0.0-3.alpha" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/joann/Downloads/m_all/examples/light_switch/include" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
