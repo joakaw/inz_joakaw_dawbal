@@ -157,6 +157,7 @@ static void handle_status_cb(access_model_handle_t handle, const access_message_
     app_uart_put('t');
     app_uart_put(':');
     app_uart_put(server_id_c);
+    app_uart_put(':');
     app_uart_put(on_off_status_c);
     app_uart_put('\n');
 
