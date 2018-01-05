@@ -11,24 +11,18 @@ class Messages {
     void login(String login, String password){
         String message;
         String action;
+        byte[] value;
 
         if(login.equals("admin")) action = "a";
         else action = "u";
-
         message = createMessage(action, "N", login, password, "N");
-        Log.d(TAG,"Login:" + message);
 
-        byte[] value;
         try {
             value = message.getBytes("UTF-8");
             Controller.getmService().writeRXCharacteristic(value);  //send data to service
-
         } catch (UnsupportedEncodingException e) {
             e.printStackTrace();
         }
-
-        if(login.equals("admin") && password.equals("admin")) Log.d(TAG,"Admin is logged.");
-        else Log.d(TAG,"User:  " + message + "is logged.");
     }
 
     void createAccount(String login, String password, Boolean door1, Boolean door2){
